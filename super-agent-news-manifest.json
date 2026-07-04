@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[clickondetroit.com](https://www.clickondetroit.com/business/2026/06/10/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-and-pay-for-users/)",
+    "[techxplore.com](https://techxplore.com/news/2026-06-visa-payment-network-chatgpt-ai.html)",
+    "[washingtontimes.com](https://www.washingtontimes.com/news/2026/jun/10/payments-giant-visa-plugs-payment-network-chatgpt-letting-ai-agents/)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px 2\u20133 lines; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=black/white pills checked",
+  "generated_at": "2026-07-04T03:15:12.275347+00:00",
+  "headline": "Super vs ChatGPT \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, source\u2011driven comparison of Super and ChatGPT for people choosing a personal AI agent. ChatGPT is evolving toward agentic commerce and automation, while Super focuses on durable computer\u2011use workflows with a reusable computer\u2011use cache that lowers cost and friction over time."
+}
